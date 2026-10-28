@@ -27,7 +27,7 @@ logbook
 pubsublogger
 
 # Tokeniser
-nltk>3.4.5
+nltk>3.10.2
 textblob>=0.15.3
 
 # HTML
